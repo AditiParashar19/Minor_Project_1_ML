@@ -298,7 +298,7 @@ The **Crop Recommendation System** successfully demonstrates the application of 
 ## 📁 Project Structure
 
 ```
- crop-recommendation-system/
+ Minor_Project_1_ML/
 │
 ├──  AI_ML_Internship_Project.ipynb   # Main Jupyter Notebook
 ├── 📄 README.md                         # Project documentation 
